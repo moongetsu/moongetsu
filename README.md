@@ -1,4 +1,4 @@
-<h1 align="left">Yo, i'm Moongetsu 👋! <br>I'm a Developer, and in the free time an AMV Editor.</h1>
+<h1 align="left">Yo, i'm Moongetsu 👋!</h1>
 
 ###
 
@@ -33,7 +33,3 @@
 ###
 
 <br clear="both">
-
-<img src="https://raw.githubusercontent.com/moongetsu/moongetsu/blob/output/snake.svg" alt="Snake animation" />
-
-###
