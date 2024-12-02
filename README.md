@@ -1,9 +1,5 @@
 # 👋 Welcome to My Github Profile
 
-<div align="center">
-  <img src="https://cdn.moongetsu.ro/Bloo/IT-Gif.gif" width="200" height="200" alt="IT Animation"/>
-</div>
-
 ## 🧑‍💻 About Me
 I'm a tech enthusiast and IT specialist who enjoys exploring new technologies and learning something new every day. With a laid-back approach to problem-solving, I combine technical expertise with a passion for continuous improvement.
 
