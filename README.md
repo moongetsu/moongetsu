@@ -1,34 +1,97 @@
-# 👋 Welcome to My Github Profile
+<div align="center">
+  <img src="https://images.gamebanana.com/img/ico/sprays/naruto.gif" width="30%"/>
+</div>
 
-## 🧑‍💻 About Me
-I'm a tech enthusiast and IT specialist who enjoys exploring new technologies and learning something new every day. With a laid-back approach to problem-solving, I combine technical expertise with a passion for continuous improvement.
+---
 
-## 📊 GitHub Statistics
-![GitHub Stats](https://github-readme-stats.vercel.app/api?username=moongetsu&show_icons=true&theme=dark&hide_border=true&include_all_commits=true&count_private=true)
-![Top Languages](https://github-readme-stats.vercel.app/api/top-langs/?username=moongetsu&layout=compact&theme=dark&hide_border=true&langs_count=6)
+<div align="center">
 
-## 🛠️ Technical Skills
+### 👋 About Me
 
-### 💻 Operating Systems
-- ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows&logoColor=white) Advanced Windows System Administration & Troubleshooting
-- ![Linux](https://img.shields.io/badge/Linux-FCC624?style=for-the-badge&logo=linux&logoColor=black) Linux Server Configuration & Management
+Hello, i'm Moongetsu!<br>
+I'm a tech enthusiast who likes to learn new things everyday!
 
-### 🛠️ Development & Tools
-- ![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=for-the-badge&logo=html5&logoColor=white) ![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=for-the-badge&logo=css3&logoColor=white) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black) Frontend Development (Still Learning)
-- ![Python](https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=python&logoColor=white) Automation & Discord Bot Development
-- ![WordPress](https://img.shields.io/badge/WordPress-21759B?style=for-the-badge&logo=wordpress&logoColor=white) Website Development & Management
+### 📬 Connect With Me
 
-### 🎨 Creative Suite
-- ![Adobe Creative Cloud](https://img.shields.io/badge/Adobe%20Creative%20Cloud-FF0000?style=for-the-badge&logo=adobe&logoColor=white) Professional Video & Photo Editing
-- ![Photoshop](https://img.shields.io/badge/Photoshop-31A8FF?style=for-the-badge&logo=adobe%20photoshop&logoColor=white) ![Premiere](https://img.shields.io/badge/Premiere-9999FF?style=for-the-badge&logo=adobe%20premiere%20pro&logoColor=white) ![After Effects](https://img.shields.io/badge/After%20Effects-9999FF?style=for-the-badge&logo=adobe%20after%20effects&logoColor=white) Advanced Media Creation
+  <a href="https://discord.com/users/977190163736322088" target="_blank">
+    <img src="https://skillicons.dev/icons?i=discord&theme=dark" width="52" height="40" alt="discord logo" />
+  </a>
+</a>
+<a href="mailto:moongetsu2@gmail.com" target="_blank">
+  <img src="https://skillicons.dev/icons?i=gmail&theme=dark" width="52" height="40" alt="gmail logo" />
+</a>
 
-### 🚀 Business & Marketing
-- ![Shopify](https://img.shields.io/badge/Shopify-7AB55C?style=for-the-badge&logo=shopify&logoColor=white) E-commerce Platform Development
-- ![Social Media](https://img.shields.io/badge/Social_Media-4A90E2?style=for-the-badge) ![TikTok](https://img.shields.io/badge/TikTok-000000?style=for-the-badge&logo=tiktok&logoColor=white) ![YouTube](https://img.shields.io/badge/YouTube-FF0000?style=for-the-badge&logo=youtube&logoColor=white) Content Creation & Management
+</div>
 
-### 🎮 Gaming & Server Management
-- ![CS:GO](https://img.shields.io/badge/CS:GO-000000?style=for-the-badge&logo=counter-strike&logoColor=white) Server Development
+---
 
-## 📫 Contact Information
-- 📧 **Email:** [contact@moongetsu.ro](mailto:contact@moongetsu.ro)
-- 💬 **Discord:** moongetsu1
+<div align="center">
+
+<table>
+<tr>
+<td width="50%" align="center">
+
+### 🤓 About
+
+**Name:** Moongetsu  
+**Age:** 20 (Born 2005)  
+**Location:** Romania 🇷🇴  
+**Languages:** Romanian, English  
+
+</td>
+<td width="50%" align="center">
+
+### 📊 Top Languages
+
+<img src="https://github-stats.skuzzi.ro/api/top-langs?username=moongetsu&locale=en&hide_title=true&layout=compact&card_width=320&langs_count=6&theme=nord&hide_border=true&order=2&bg_color=00000000" width="100%" />
+
+</td>
+</tr>
+</table>
+
+</div>
+
+---
+
+### 🛠️ Tech Stack
+
+<div align="center">
+
+#### 💻 Languages & Frameworks
+<img src="https://skillicons.dev/icons?i=js,ts,python,php,lua&perline=5&theme=dark" />
+
+<br/>
+
+#### 🎨 Frontend
+<img src="https://skillicons.dev/icons?i=react,nextjs,html,css,tailwind,bootstrap&perline=6&theme=dark" />
+
+<br/>
+
+#### ⚙️ Backend & Databases
+<img src="https://skillicons.dev/icons?i=nodejs,mysql,sqlite&perline=3&theme=dark" />
+
+<br/>
+
+#### 🚀 DevOps & Tools
+<img src="https://skillicons.dev/icons?i=docker,nginx,git,github,npm&perline=5&theme=dark" />
+
+<br/>
+
+#### 💾 Platforms & Other
+<img src="https://skillicons.dev/icons?i=linux,debian,windows,vscode&perline=5&theme=dark" />
+
+</div>
+
+---
+
+### 📈 Development Activity
+
+<div align="center">
+  <img src="https://github-readme-activity-graph.vercel.app/graph?username=moongetsu&radius=16&theme=nord&area=true&order=5&hide_border=true&hide_title=true&line=88C0D0&area_color=88C0D0&bg_color=transparent" height="300" />
+</div>
+
+---
+
+<div align="center">
+  <img src="https://media.tenor.com/Pi3ZOKJ9xD4AAAAj/club-penguin.gif" width="35%" />
+</div>
